@@ -1,0 +1,13 @@
+1. https://en.wikibooks.org/wiki/Robotics_Kinematics_and_Dynamics/Description_of_Position_and_Orientation
+
+2. https://www.cs.utexas.edu/~theshark/courses/cs354/lectures/cs354-14.pdf
+
+3. https://dreamanddead.github.io/post/understanding-euler-angles/
+
+4. https://www.wikiwand.com/en/Davenport_chained_rotations#/Conversion_between_intrinsic_and_extrinsic_rotations
+
+5. https://www.meccanismocomplesso.org/en/hamiltons-quaternions-and-3d-rotation-with-python/
+
+6. https://www.youtube.com/watch?v=zc8b2Jo7mno
+
+7. https://jackmin.home.blog/2019/05/25/quaternions-gimbal-lock/

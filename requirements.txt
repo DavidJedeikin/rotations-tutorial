@@ -1,0 +1,5 @@
+jupyter>=6.4.0
+ipywidgets>=7.6.3   
+numpy
+matplotlib
+ipympl
