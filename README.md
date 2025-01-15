@@ -1,6 +1,6 @@
 # Rotations Tutorial
 
-Rotations can be confusing - this tutorial should help you build intuition for some of the key/basic concepts. 
+Rotations can be confusing - this tutorial should with building intuition about some of the key/basic concepts. 
 
 # Getting started 
 
